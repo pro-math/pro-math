@@ -93,6 +93,9 @@
 
 ## Инструкция по деплою
 
-В каждом отдельном репозитории (backend (https://github.com/pro-math/backend), frontend (https://github.com/pro-math/frontend), mobile (https://github.com/pro-math/mobile-android)) вы найдете подробную инструкцию по развертыванию проекта, что обеспечит простоту и надежность в развертывании приложения на вашем сервере или локальной машине.
+В каждом отдельном репозитории (backend (https://github.com/pro-math/backend), frontend (https://github.com/pro-math/frontend), mobile (https://github.com/pro-math/mobile-android)) вы найдете подробную инструкцию по развертыванию проекта, что обеспечит простоту и надежность в развертывании приложения на вашем сервере или локальной машине. Для проверки сначала запустите по инструкции backend, затем frontend.
 
 Присоединяйтесь к ProMath и вместе мы будем развивать математические навыки и исследовать прекрасный мир математики!
+
+Скринкасты: https://disk.yandex.ru/d/OcaEswoIYT3t9g
+
